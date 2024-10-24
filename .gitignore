@@ -1,0 +1,41 @@
+# Java compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build directories
+/build/
+bin/
+out/
+
+# IDE specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.ipr
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
